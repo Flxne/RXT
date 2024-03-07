@@ -51,7 +51,7 @@ echo 1. Run this script every time there is a Roblox update!
 echo.
 echo 2. If you need help, contact @fl1n3 on Telegram!
 echo.
-echo 3. To uninstall RXT at any time, run RXT-Uninstaller.cmd!
+echo 3. To uninstall RXT at any time, run Uninstaller.cmd!
 echo.
 echo.
 echo Press any key to continue... & pause >nul
